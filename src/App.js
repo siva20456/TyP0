@@ -17,7 +17,7 @@ function App() {
       </header>
       <div className="container">
         <div className="words-container">
-          <h2>Type the following words:</h2>
+          <h2>Type the following words :</h2>
           <p>Word 1</p>
           <p>Word 2</p>
           <p>Word 3</p>
